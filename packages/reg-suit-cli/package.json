@@ -26,7 +26,7 @@
   "dependencies": {
     "cp-file": "9.1.0",
     "ignore": "5.1.8",
-    "inquirer": "7.3.3",
+    "inquirer": "8.1.2",
     "reg-suit-core": "^0.10.16",
     "reg-suit-util": "^0.10.16",
     "yargs": "17.0.1"
